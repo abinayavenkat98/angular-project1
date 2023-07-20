@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "name": "Abinaya",
+      "email": "abinayavenkateshwari@gmail.com",
+      "address": "VadakuthiAmman street",
+      "city": "Sankaran Kovil",
+      "state": "Tamil Nadu",
+      "phonenumber": "",
+      "id": 1
+    },
+    {
+      "name": "Abi",
+      "email": "abinayavenkateshwari@gmail.com",
+      "address": "VadakuthiAmman street",
+      "city": "Sankaran Kovil",
+      "state": "Tamil Nadu",
+      "phonenumber": "",
+      "id": 2
+    },
+    {
+      "name": "Anu",
+      "email": "abcdefghihjk123@gmail.com",
+      "address": "north street",
+      "city": "tirunelveli",
+      "state": "Tamil Nadu",
+      "phonenumber": 9944330476,
+      "id": 3
+    },
+    {
+      "name": "Pasupathi",
+      "email": "pasupathitilak123@gmail.com",
+      "address": "Amman street",
+      "city": "Surandai",
+      "state": "Mumbai",
+      "phonenumber": 7548819196,
+      "id": 4
+    }
+  ]
+}
